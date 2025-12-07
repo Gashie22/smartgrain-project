@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+SmartGrain - AI-Powered Smart Granary Management System
+🌾 Overview
+SmartGrain is an innovative web-based IoT platform that revolutionizes traditional grain storage through AI-powered monitoring, predictive analytics, and automated climate control. This intelligent system prevents post-harvest losses by maintaining optimal storage conditions and providing real-time insights for grain storage management.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🎯 Problem Statement
+African farmers lose 30-40% of harvested grain due to:
 
-## Available Scripts
+Poor storage conditions leading to spoilage
 
-In the project directory, you can run:
+Lack of real-time monitoring for temperature and humidity
 
-### `npm start`
+Insect infestation detection delays
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Manual quality assessment inefficiencies
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+No predictive analytics for potential spoilage
 
-### `npm test`
+Inefficient inventory management
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+✨ Key Features
+🧠 AI-Powered Monitoring
+Computer Vision for grain quality assessment
 
-### `npm run build`
+Predictive Analytics for spoilage prevention
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Anomaly Detection for early problem identification
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Quality Grading using machine learning models
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+🌡️ IoT Sensor Network
+Temperature & Humidity monitoring across storage zones
 
-### `npm run eject`
+CO₂ Level Detection for respiration monitoring
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Moisture Content Analysis in real-time
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Insect Activity Detection using acoustic sensors
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Weight Monitoring with load cells
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+Gas Concentration (O₂, CO₂, NH₃) monitoring
 
-## Learn More
+📊 Smart Threshold Management
+Dynamic Threshold Adjustment based on grain type
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Seasonal Adaptation algorithms
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+Multi-grain Support with customized parameters
 
-### Code Splitting
+Automated Alert System for threshold breaches
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+🤖 Automated Climate Control
+Smart Ventilation based on real-time conditions
 
-### Analyzing the Bundle Size
+Automated Aeration control systems
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Temperature Regulation with cooling/heating
 
-### Making a Progressive Web App
+Humidity Control with dehumidifiers
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Fumigation Scheduling based on pest detection
 
-### Advanced Configuration
+📱 Comprehensive Dashboard
+Real-time Data Visualization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Historical Trend Analysis
 
-### Deployment
+Predictive Maintenance Alerts
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+Mobile App Integration
 
-### `npm run build` fails to minify
+Multi-language Support
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+🏗️ System Architec
